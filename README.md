@@ -1,5 +1,8 @@
 # Carousel-Component
 
+## Site URL:
+(https://ishitajhunjhunwala.github.io/Carousel-Component/)
+
 ## Key Features:
 * Supports pagination with buttons on either ends to move left or right
 * Page size is configurable
